@@ -1,3 +1,3 @@
-module github.com/17media/structs
+module github.com/jasoet/structs
 
-go 1.13
+go 1.15
